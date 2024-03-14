@@ -18,7 +18,7 @@
     
 }  
 .nav_logo{
-    background-image: url(gym_images/logo.jpg);
+    background-image: url(logo.jpg);
     height: 75px;
     width: 75px;
     border-radius: 50%;
@@ -135,7 +135,7 @@
 .firstpage_image{
     height: 550px;
     width: 550px;
-    background-image: url(gym_images/firstpage.jpg);
+    background-image: url(firstpage.jpg);
     background-size: cover;
 }
 
@@ -222,7 +222,7 @@
 .thirdpage_image{
     height: 550px;
     width: 550px;
-    background-image: url(gym_images/thirdpage.jpg);
+    background-image: url(thirdpage.jpg);
     background-size: cover;
 }
 
@@ -332,7 +332,7 @@
 .fourthpage_image{
     height: 550px;
     width: 550px;
-    background-image: url(gym_images/fifthpage.jpg);
+    background-image: url(fifthpage.jpg);
     background-size: cover;
 }
 
@@ -629,7 +629,7 @@
     
 }
 .footer_logo{
-    background-image: url(gym_images/logo.jpg);
+    background-image: url(logo.jpg);
     height: 75px;
     width: 75px;
     border-radius: 50%;
